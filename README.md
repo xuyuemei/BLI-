@@ -1,2 +1,11 @@
-# BLI-
-bli词典
+## BLI-
+# Multilingual Word Embeddings
+
+We release the fastText Wikipedia supervised word embeddings for multiple languages, aligned in a single vector space.
+
+| Arabic-Hebrew: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/ar-he.txt) | Arabic-Japanese: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/ar-ja.txt) | Arabic-Swahili: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/ar-sw.txt) | Arabic-Tamil: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/ar-tl.txt) | English-Hebrew: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/en-he.txt) | English-Japanese: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/en-ja.txt) |
+|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| English-Swahili: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/en-sw.txt) | English-Tamil: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/en-tl.txt) | Indonesian-Hebrew: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/id-he.txt) | Indonesian-Japanese: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/id-ja.txt) | Indonesian-Swahili: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/id-sw.txt) | Indonesian-Tamil: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/id-tl.txt) |
+| Chinese-Hebrew: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/zh-he.txt) | Chinese-Japanese: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/zh-ja.txt) | Chinese-Swahili: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/zh-sw.txt) | Chinese-Tamil: [text](https://raw.githubusercontent.com/xuyuemel/BLI/main/dictionary/zh-tl.txt) | | |
+
+You can visualize the crosslingual nearest neighbors using [demo.ipynb](https://github.com/xuyuemel/BLI/blob/main/demo.ipynb).
