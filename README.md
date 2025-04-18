@@ -1,6 +1,6 @@
 # BLI-
 
-We release the fastText Wikipedia supervised word embeddings for multiple languages, aligned in a single vector space.
+Here is our dictionary.
 
 | ar-he: [text](https://github.com/xuyuemei/BLI-/blob/main/dictionary/ar-he.txt) | ar-ja: [text](https://github.com/xuyuemei/BLI-/blob/main/dictionary/ar-ja.txt) | ar-sw: [text](https://github.com/xuyuemei/BLI-/blob/main/dictionary/ar-sw.txt) | ar-tl: [text](https://github.com/xuyuemei/BLI-/blob/main/dictionary/ar-tl.txt) | en-he: [text](https://github.com/xuyuemei/BLI-/blob/main/dictionary/en-he.txt) | en-ja: [text](https://github.com/xuyuemei/BLI-/blob/main/dictionary/en-ja.txt) |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
