@@ -1,4 +1,4 @@
-# PUBLIC-BLI
+# BLI
 
 Here is our dictionary.
 
